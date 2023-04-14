@@ -1,4 +1,4 @@
-![Codewars](https://github.r2v.ch/codewars?user=pierrefaucher-dev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)
+![Codewars](https://github.r2v.ch/codewars?user=pierrefaucher-dev&name=true&top_languages=true&stroke=%23b362ff&theme=purple_dark&hide_clan=true)
 
 <!--
 **pierrefaucher-dev/pierrefaucher-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
